@@ -54,12 +54,19 @@ b
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/78b91814-2493-482f-aa0b-e24e77a82e63)
+
 ![image](https://github.com/user-attachments/assets/fcaa1bc3-8160-42ef-bfce-8a908c39ac3f)
+
 ![image](https://github.com/user-attachments/assets/3bb23534-d3a9-4e9b-8fea-cbc739aaaab7)
+
 ![image](https://github.com/user-attachments/assets/eafa0875-262c-4078-b543-434582b5280b)
+
 ![image](https://github.com/user-attachments/assets/f050ebc9-b2b5-41ba-9198-230578a24204)
+
 ![image](https://github.com/user-attachments/assets/c6c2b26a-25e7-4128-b3bb-66972a3802da)
+
 ![image](https://github.com/user-attachments/assets/c02e6c5e-24b9-449c-87b5-db68178dc9dd)
+
 ![image](https://github.com/user-attachments/assets/05565e1b-a61c-4d4c-ad34-f9b027f2d468)
 
 
