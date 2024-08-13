@@ -21,6 +21,7 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: LAKSHMI PRIYA.V
 RegisterNumber: 212223220049
 */
+```
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -49,6 +50,7 @@ m=lr.coef_
 m[0]
 b=lr.intercept_
 b
+```
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/78b91814-2493-482f-aa0b-e24e77a82e63)
